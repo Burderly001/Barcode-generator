@@ -1,0 +1,10 @@
+
+<view>
+
+<!-- or -->
+<!-- <canvas id="barcode"></canvas>
+<canvas id="test"></canvas> -->
+<!-- or -->
+<image style="margin-left:20rpx; width:720rpx" mode="scaleToFill" src="{{base64}}"/>
+
+</view>
