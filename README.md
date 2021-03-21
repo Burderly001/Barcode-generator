@@ -6,3 +6,4 @@
 
 效果如下
 
+https://github.com/Burderly001/Barcode-generator/blob/main/sample.png
